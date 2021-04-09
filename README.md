@@ -17,7 +17,10 @@ $ sudo pip3 install PyDrive2
 ```
 $ sudo pip3 install Flask
 ```
-### **IMPORTANTE: Para correr el Script APIDrive.py es recomendable hacerlo mediante la sentencia python3 APIDrive.py**
+### **IMPORTANTE: Para correr el Script APIDrive.py es recomendable hacerlo mediante la sentencia: **
+```
+python3 APIDrive.py
+```
 
 ## Gestión de credenciales 🔑
 
