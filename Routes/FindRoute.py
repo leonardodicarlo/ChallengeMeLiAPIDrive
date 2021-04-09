@@ -23,7 +23,7 @@ def found(anId, anWord):
         if (f['id'] == anId):
             print('ID Drive:',f['id'])
             print('Link de visualizacion embebido:',f['embedLink'])
-            print('Nombre del archive:',f['title'])
+            print('Nombre del archivo:',f['title'])
             result.append(f)
 
     return result    
