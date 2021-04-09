@@ -4,8 +4,9 @@
 
 * **Leonardo Di Carlo** - [leonardodicarlo](https://github.com/leonardodicarlo)
 
-## VIDEO EXPLICATIVO 🎥 
-[link al video en este repositorio](https://github.com/leonardodicarlo/ChallengeMeLiAPIDrive/blob/main/VIDEO%20-%20Uso%20de%20la%20API%20y%20casos%20de%20test.mp4)
+
+## Video Explicativo 🎥 
+[Link al video en este repositorio](https://github.com/leonardodicarlo/ChallengeMeLiAPIDrive/blob/main/VIDEO%20-%20Uso%20de%20la%20API%20y%20casos%20de%20test.mp4)
 
 ## Instalación 🔧
 
